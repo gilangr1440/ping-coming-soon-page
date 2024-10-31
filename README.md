@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/ping-coming-soon-page-2tEYE7Cif-)
+- Live Site URL: [live site URL here](https://gilangr1440.github.io/ping-coming-soon-page/)
 
 ## My process
 
